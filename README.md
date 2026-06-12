@@ -6,10 +6,13 @@
 
 *Search products, compare ratings, get personalized recommendations, and place orders — all through natural conversation.*
 
+### 🚀 [Try the Live Demo →](https://ai-shopping-agent-deu7rz7wmn5rsfrzgurepe.streamlit.app/)
+
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
 [![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-10b981?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-shopping-agent-deu7rz7wmn5rsfrzgurepe.streamlit.app/)
 
 </div>
 

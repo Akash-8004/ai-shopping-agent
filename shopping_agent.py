@@ -63,6 +63,9 @@ def is_shopping_request(user_input: str):
     - purchases
     - shopping advice
     - cart related questions
+    - product images
+    - image based product queries
+    - shopping related image uploads
     - Or Something Shopping releted
 
     NO:
